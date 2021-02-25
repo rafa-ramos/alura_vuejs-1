@@ -1,4 +1,4 @@
-# alurapic
+R# alurapic
 
 > Meu primeiro Vue.js (Alura)
 
@@ -24,6 +24,10 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+# para ativar a API, acessar o diretório e executar
+npm start 
+....API escutando na porta: 3000
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
