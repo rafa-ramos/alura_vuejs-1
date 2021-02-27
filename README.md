@@ -8,8 +8,11 @@ R# alurapic
 # requisitos
 sudo apt install nodejs;
 sudo apt install npm;
-vue cli: npm install -g vue-cli@2.7.0 -g
+
 # -g declara a dependência como global, podendo ser acessada de qualquer pasta
+vue cli: npm install -g vue-cli@2.7.0 -g
+vue route: npm install vue-router@2.1.1 --save
+
 
 # iniciar projeto 
 vue init webpack-simple nome_pasta_do_projeto
